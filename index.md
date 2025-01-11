@@ -1,5 +1,5 @@
 # JUSTIN CROW
-### Senior Software Engineer & Technical Leader
+### Senior Software Engineer
 [jcrowster@gmail.com](mailto:jcrowster@gmail.com) | Farnham, UK | 07736 622624
 
 ## PROFESSIONAL SUMMARY
@@ -21,6 +21,7 @@ Results-driven Senior Software Engineer with 25+ years of experience architectin
 - Built responsive frontend interfaces using React and TypeScript
 - Maintained high code quality through TDD and comprehensive CI/CD pipelines
 - Technologies: Kotlin, React, AWS, Docker, GitHub Actions
+- Mentored more junior members of the team in best practises
 
 ### Senior Software Engineer
 **Kaluza** | Apr 2021 - Apr 2022
