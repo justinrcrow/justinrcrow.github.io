@@ -3,7 +3,7 @@
 [jcrowster@gmail.com](mailto:jcrowster@gmail.com) | Farnham, UK | 07736 622624
 
 ## PROFESSIONAL SUMMARY
-Results-driven Senior Software Engineer with 25+ years of experience architecting and delivering complex financial and enterprise solutions. Proven track record of building scalable microservices, mobile apps and mentoring. Expert in full-stack development with focus on JVM based languages, React, and cloud technologies. Passionate advocate of Test-Driven Development and Agile methodologies.
+Results-driven Senior Software Engineer with 25+ years of experience architecting and delivering complex financial and enterprise solutions. Proven track record of building scalable microservices, mobile apps and mentoring. Expertise in full-stack development with focus on JVM based languages, React, and cloud technologies. Passionate advocate of Test-Driven Development and Agile methodologies.
 
 ## CORE COMPETENCIES
 - **Languages & Frameworks:** Kotlin, Node.js, Scala, Java, React/React Native, TypeScript
@@ -58,6 +58,18 @@ Results-driven Senior Software Engineer with 25+ years of experience architectin
 - Designed database schema and transaction semantics for high-volume trading data
 - Implemented REST services and JMS-driven enrichment system
 - Technologies: Java, Spring, Hibernate, JMS, Drools
+
+### Senior Java Developer (Contract)
+**London Clearing House Ltd, London** | Aug 2008 - Mar 2011
+- Co-lead developer on a new OTC Ticketing system for  
+members of various Exchanges, allowing them to create      
+bespoke OTC trades.
+- Contributed to building a new margin calculator for members
+
+### Senior Java Developer (Contract)
+**SpecSavers Ltd, Eastleigh** | Aug 2008 - Mar 2011
+- Contributed to a large Jave Swing application using Hibernate and Spring
+
 
 [Previous roles available upon request]
 
