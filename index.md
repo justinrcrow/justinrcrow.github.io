@@ -14,7 +14,7 @@ Results-driven Senior Software Engineer with 25+ years of experience architectin
 ## PROFESSIONAL EXPERIENCE
 
 ### Senior Software Engineer (Contract)
-**Patchwork Health** | Apr 2022 - Febrary 2023
+**Patchwork Health** | Apr 2022 - Febrary 2025
 - Architected and wrote a robust integration with the NHS/ESR system, using Kotlin, SQS, sFTP, S3, Postgres, running in AWS Fargate
 - Implemented secure, scalable APIs using Kotlin, Http4K, OpenApi and KeyCloak
 - Built a React/TypeScript frontend, using both GraphQL to talk to a legacy Ruby On Rails backend, and a REST API to the Kotlin microservice
@@ -66,12 +66,19 @@ members of various Exchanges, allowing them to create
 bespoke OTC trades.
 - Contributed to building a new margin calculator for members
 
+[Previous roles]
+
 ### Senior Java Developer (Contract)
-**SpecSavers Ltd, Eastleigh** | Aug 2008 - Mar 2011
-- Contributed to a large Jave Swing application using Hibernate and Spring
+**SpecSavers Ltd, Eastleigh** | Mar 2008 - Aug 2008
 
+### Senior Java Developer (Permanent)
+**Managed Objects Ltd, London** | Jun 2006 - Feb 2008
+  
+### Senior Developer (Permanent)
+**BMW UK Ltd, Bracknell** | Nov 1997 - Jun 2006
 
-[Previous roles available upon request]
+### Graduate Programmer (Permanent)
+**Safeway Stores Ltd, London** | Aug 1995 - Nov 1997
 
 ## NOTABLE ACHIEVEMENTS
 - Developed and deployed the first licensed National Rail Enquiries App for Android, as a personal project
