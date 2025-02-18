@@ -6,7 +6,7 @@
 Results-driven Senior Software Engineer with 25+ years of experience architecting and delivering complex financial and enterprise solutions. Proven track record of building scalable microservices, mobile apps and mentoring. Expertise in full-stack development with focus on JVM based languages, React, and cloud technologies. Passionate advocate of Test-Driven Development and Agile methodologies.
 
 ## CORE COMPETENCIES
-- **Languages & Frameworks:** Kotlin, Node.js, Scala, Java, React/React Native, TypeScript
+- **Languages & Frameworks:** Kotlin, Node.js, Scala, Java, React/React Native, TypeScript, TestContainers
 - **Cloud & Infrastructure:** AWS, Docker, Kafka, Pulumi, Microservices Architecture
 - **Databases:** PostgreSQL, Oracle, MySQL, H2
 - **Development Practices:** Test-Driven Development, Agile, XP, CI/CD
@@ -19,16 +19,18 @@ Results-driven Senior Software Engineer with 25+ years of experience architectin
 - Implemented secure, scalable APIs using Kotlin, Http4K, OpenApi and KeyCloak
 - Built a React/TypeScript frontend, using both GraphQL to talk to a legacy Ruby On Rails backend, and a REST API to the Kotlin microservice
 - Championed high code quality through TDD and comprehensive CI/CD pipelines
+- Thorough local testing of all external interfaces using TestContainers
 - Mentored more junior members of the team in best practises
 - Broke out parts of a legacy Ruby On Rails monolith into Kotlin microservices
-- Technologies: Kotlin, React, AWS, Docker, GitHub Actions
+- Technologies: Kotlin, React, broad range of AWS services, Docker, GitHub Actions
 
 
 ### Senior Software Engineer (Contract)
 **Kaluza** | Apr 2021 - Apr 2022
 - Architected and developed payment management system for billing platform, written in Node.js and deployed on AWS infrastructure
 - Implemented automated testing and continuous deployment workflows
-- Technologies: Node.js, React, AWS, Docker, GitHub Actions
+- Thorough local testing of all external interfaces using TestContainers
+- Technologies: Node.js, React, Postgres, SQS, S3, Docker, GitHub Actions, TestContainers
 
 ### Lead Developer & Co-Founder (Permanent)
 **Nivo Solutions Ltd** | Nov 2017 - Apr 2021
