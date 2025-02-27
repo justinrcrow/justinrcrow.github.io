@@ -8,7 +8,7 @@ Results-driven Senior Software Engineer with 25+ years of experience architectin
 ## CORE COMPETENCIES
 - **Languages & Frameworks:** Kotlin, Node.js, Scala, Java, React/React Native, TypeScript, TestContainers
 - **Cloud & Infrastructure:** AWS, Docker, Kafka, Pulumi, Microservices Architecture
-- **Databases:** PostgreSQL, Oracle, MySQL, H2
+- **Databases:** PostgreSQL, Oracle, MySQL, H2, DynamoDB
 - **Development Practices:** Test-Driven Development, Agile, XP, CI/CD
 
 ## PROFESSIONAL EXPERIENCE
@@ -30,7 +30,7 @@ Results-driven Senior Software Engineer with 25+ years of experience architectin
 - Architected and developed payment management system for billing platform, written in Node.js and deployed on AWS infrastructure
 - Implemented automated testing and continuous deployment workflows
 - Thorough local testing of all external interfaces using TestContainers
-- Technologies: Node.js, React, Postgres, SQS, S3, Docker, GitHub Actions, TestContainers
+- Technologies: Node.js, React, Kotlin, Postgres, DynamoDB, SQS, S3, Docker, GitHub Actions, TestContainers
 
 ### Lead Developer & Co-Founder (Permanent)
 **Nivo Solutions Ltd** | Nov 2017 - Apr 2021
@@ -38,7 +38,7 @@ Results-driven Senior Software Engineer with 25+ years of experience architectin
 - Designed and implemented microservices architecture using Scala, Docker (Swarm), and Kafka, deployed on AWS
 - Built a sophisticated cross-platform mobile app using React Native, serving thousands of end users
 - The mobile app included functionality to allow secure document exchange, IDV checks, and eSigning
-- Technologies: Scala, React, React Native, Kafka, PostgreSQL, AWS, Docker, TeamCity
+- Technologies: Scala, React, React Native, Kotlin, Kafka, PostgreSQL, DynamoDB, AWS, Docker, TeamCity
 
 ### Senior Software Developer (Contract)
 **Barclays Bank, London** | Feb 2015 - Nov 2017
